@@ -1,4 +1,3 @@
-import "./App.css";
 import AboutUs from "./components/AboutUs";
 import MainChart from "./components/Chart/MainChart";
 import Header from "./components/Header";

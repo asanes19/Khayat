@@ -36,12 +36,12 @@ const AboutUs = () => {
         <div className="w-[50%] grid grid-cols-2 gap-4">
           <img
             src="https://imgs.search.brave.com/yLoX9KdlU8kc3P40OY-zivhtcbHX7PwZALIdEH2Q1Pk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODQ0/MDAwNDEyL3ZlY3Rv/ci9kZWZhdWx0LXBs/YWNlaG9sZGVyLW1h/bi5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9eEZnaTk1eXRi/Smd5TGtOMHVVREZB/NU00cC1RMXMyNVll/X001dTg2ZXZGYz0"
-            alt="AKI Team"
+            alt="Placeholder portrait"
             className="w-full h-full object-cover rounded-lg shadow"
           />
           <img
             src="https://imgs.search.brave.com/IMAm_vXrfDrFAmJ4p97QIoik1-JGB-Vr1YJLopld0I0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODQ0/MDAwNDU4L3ZlY3Rv/ci9kZWZhdWx0LXBs/YWNlaG9sZGVyLW1h/bi5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9dDJNQlczbG9V/eDlfMVU0dnlMdVRU/SVRvTGtiQUxYVEYx/d2hORGllZEsxbz0"
-            alt="AKI Office"
+            alt="Placeholder portrait"
             className="w-full h-full object-cover rounded-lg shadow"
           />
         </div>

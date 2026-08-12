@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import * as XLSX from "xlsx";
 import { Tree } from "react-organizational-chart";
 import DivisionNode from "./DivisionNode";
 import { baseNode, activeNode } from "./nodeStyles";
@@ -12,7 +11,7 @@ const MainChart = () => {
   useEffect(() => {
     setDivisions(dummyData);
 
-    // ✅ Expand أول Division + City
+    // Expand the first division and its first city by default
     if (dummyData.length > 0) {
       setExpanded({ division: 0, city: 0 });
     }
